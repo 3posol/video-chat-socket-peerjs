@@ -1,6 +1,6 @@
-# Video-chat-v1
+# video-chat-socket-peerjs
 
-Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
+video-chat-socket-peerjs is a video chat app that makes it easy to groups up with people you want to meet
 
 ![IMG](./video-chat.png)
 
